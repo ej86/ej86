@@ -30,8 +30,8 @@ Analyzed physician-reported difficulty accessing external clinical information t
 
 **52.7%** reported the highest level of difficulty finding important information amid large amounts of low-value information.
 
-[View Case Study →](YOUR_NOTION_LINK)
-[View Repository →](YOUR_GITHUB_REPOSITORY_LINK)
+[View Case Study →](https://app.notion.com/p/External-Clinical-Information-Access-Analysis-3cff89a0cfc48057907cfcebc492c145?source=copy_link)
+[View Repository →](https://github.com/ej86/nehrs-ehr-clinical-information-access-analysis)
 
 ---
 
@@ -54,8 +54,8 @@ Analyzed FDA AI/ML-enabled medical device activity to identify emerging signals 
 
 **76.7%** of records with an assigned medical specialty were associated with Radiology.
 
-[View Case Study →](YOUR_NOTION_LINK)
-[View Repository →](YOUR_GITHUB_REPOSITORY_LINK)
+[View Case Study →](https://app.notion.com/p/FDA-AI-ML-Medical-Device-Activity-Identifying-Emerging-Signals-Beyond-Radiology-3c8f89a0cfc4800b9139d27630b0944f?source=copy_link)
+[View Repository →](https://github.com/ej86/fda-ai-medical-device-analytics)
 
 ---
 
@@ -78,8 +78,8 @@ Analyzed HCAHPS survey data to identify performance gaps across hospital patient
 
 A **14.3-point gap** separated Nurse Communication from Communication About Medicines.
 
-[View Case Study →](YOUR_NOTION_LINK)
-[View Repository →](YOUR_GITHUB_REPOSITORY_LINK)
+[View Case Study →](https://app.notion.com/p/Healthcare-Patient-Experience-Gap-Analysis-3c4f89a0cfc480ec8c15dbf50e9809bd?source=copy_link)
+[View Repository →](https://github.com/ej86/hcahps-patient-experience-analysis)
 
 ---
 
