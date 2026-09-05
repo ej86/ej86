@@ -145,10 +145,10 @@ Turn findings into product questions, opportunities, and next steps without over
 
 For full case studies, methodology, analysis, and findings:
 
-**[Notion Portfolio](https://shell-nitrogen-85e.notion.site/Eunjoo-Cha-Healthcare-Product-Analytics-3d2f89a0cfc480d18933d395100085a4):** 
+[Notion Portfolio](https://shell-nitrogen-85e.notion.site/Eunjoo-Cha-Healthcare-Product-Analytics-3d2f89a0cfc480d18933d395100085a4) 
 
 ---
 
 ## Connect
 
-[LinkedIn](linkedin.com/in/eunjoocha) · [Email](ejcha86@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/eunjoocha) · ejcha86@gmail.com
